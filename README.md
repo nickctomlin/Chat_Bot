@@ -4,7 +4,7 @@
  # Connecting
 To access and interact with the chatbot, please follow these steps:
 
- Visit webchat.freenode.net and establish a connection with the pircbot server.
- Once successfully connected to the server, execute the MyBotMain.java file to enable the chatbot's connection.
- The chatbot will promptly establish a connection to the server, enabling you to engage in seamless conversations.
- Begin your interaction by typing "Hi" or "time" to initiate the conversation and explore its functionalities.
+- Visit webchat.freenode.net and establish a connection with the pircbot server.
+- Once successfully connected to the server, execute the MyBotMain.java file to enable the chatbot's connection.
+- The chatbot will promptly establish a connection to the server, enabling you to engage in seamless conversations.
+- Begin your interaction by typing "Hi" or "time" to initiate the conversation and explore its functionalities.
